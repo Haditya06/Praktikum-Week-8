@@ -62,17 +62,17 @@ Setiap pelanggan memiliki minimal **8 atribut**, antara lain:
 ## 🧩 Inputan Data Barang 
 ```
 === Input Data Barang ===
-Kode         : BRG001
-Nama         : Susu Ultra Milk
-Produsen     : PT Ultra Jaya
+Kode         : DIT064
+Nama         : Haditya
+Produsen     : PT LOMBOK
 Berat Bersih : 1000
 Harga Beli   : 12000
 Harga Jual   : 15000
 
 === Menampilkan detil barang ===
-Kode         : BRG001
-Nama         : Susu Ultra Milk
-Produsen     : PT Ultra Jaya
+Kode         : DIT064
+Nama         : HADITYA
+Produsen     : PT LOMBOK
 Berat Bersih : 1000 gram
 Harga Beli   : Rp12000.0
 Harga Jual   : Rp15000.0

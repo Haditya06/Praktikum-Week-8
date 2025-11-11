@@ -61,6 +61,7 @@ Setiap pelanggan memiliki minimal **8 atribut**, antara lain:
 
 ## 🧩 Inputan Data Barang 
 ```
+=== Input Data Barang ===
 Kode         : BRG001
 Nama         : Susu Ultra Milk
 Produsen     : PT Ultra Jaya
@@ -68,7 +69,7 @@ Berat Bersih : 1000
 Harga Beli   : 12000
 Harga Jual   : 15000
 
-Menampilkan detil barang
+=== Menampilkan detil barang ===
 Kode         : BRG001
 Nama         : Susu Ultra Milk
 Produsen     : PT Ultra Jaya

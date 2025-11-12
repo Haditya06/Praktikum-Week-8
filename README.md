@@ -4,7 +4,7 @@ Proyek ini dibuat sebagai bagian dari praktikum **Pemrograman Berorientasi Objek
 Tujuan proyek ini adalah memahami dan menerapkan konsep **kelas dan objek**, serta penggunaan **BufferedReader** untuk input data dari pengguna.
 
 --- 
-
+ 
 ## 🧾 Deskripsi Proyek
 
 Proyek ini terdiri dari dua bagian utama:

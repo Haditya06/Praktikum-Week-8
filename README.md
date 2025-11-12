@@ -1,4 +1,4 @@
-# Praktikum-Week-8
+# Praktikum-Week-7
 # 📦 Aplikasi Ritel Makanan & Laundry  
 Proyek ini dibuat sebagai bagian dari praktikum **Pemrograman Berorientasi Objek (Java)**.  
 Tujuan proyek ini adalah memahami dan menerapkan konsep **kelas dan objek**, serta penggunaan **BufferedReader** untuk input data dari pengguna.

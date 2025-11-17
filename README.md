@@ -5,7 +5,7 @@ Tujuan proyek ini adalah memahami dan menerapkan konsep **kelas dan objek**, ser
 
 --- 
  
-## 🧾 Deskripsi Proyek
+## 🧾 Deskripsi Proyek 
 
 Proyek ini terdiri dari dua bagian utama:
 
